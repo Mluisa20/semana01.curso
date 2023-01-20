@@ -1,0 +1,13 @@
+*{
+    font-family: Verdana, sans-serif;
+}
+
+
+body {
+    background-color: rgb(187, 134, 236);
+}
+
+header nav a {
+    color:darkgrey;
+    text-decoration: none;
+}
